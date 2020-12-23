@@ -1,0 +1,2 @@
+# terkey
+SHORTCUT TERMUX 
